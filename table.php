@@ -1,5 +1,3 @@
 <?php  
-	define('SETTINGS',PREFIX . 'settings');
-	define('USERS',PREFIX . 'users');
-	define('BIODATA',PREFIX . 'biodata');
+	//define('NAME ALIAS',PREFIX . 'NAME TABLE'); EXAMPLE
 ?>
