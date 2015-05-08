@@ -10,7 +10,7 @@ Belajar dan berbagi - Library dasar pemrograman web
 Langkah - langkah penggunaan :
 - extract library ke dalam folder pada aplikasi website
 - buka file config.php kemudian isikan variable untuk konek ke database - HOST | USER | PASSWORD | DATABASE | PREFIX
-- <img src="/dwilanang/code-lib-php/raw/master/capture-config.php.gif" />
+- <img src="capture-config.php.gif" />
 - panggil file init.php melalui index.php atau file tempat library dibutuhkan
 -  <pre>
     <?php
