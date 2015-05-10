@@ -8,6 +8,7 @@ Belajar dan berbagi - Library dasar pemrograman web
 - db.php
 
 Langkah - langkah penggunaan :
+- download <a href="https://github.com/dwilanang/code-lib-php/archive/master.zip">here</a>
 - extract library ke dalam folder pada aplikasi website
 - buka file config.php kemudian isikan variable untuk konek ke database - HOST | USER | PASSWORD | DATABASE | PREFIX
 - <img src="capture-config.gif" />
