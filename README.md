@@ -21,4 +21,3 @@ Langkah - langkah penggunaan :
     ?>
   </pre>
 - setting nilai pada fungsi run menjadi 1 untuk mematikan pesan berhasil - $app->run(1) atau hapus pemanggilan fungsi
-- testing
